@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/COABOA/Profile-Gen#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "electron-html-to": "^2.6.0",
     "electron-prebuilt": "^1.4.13",
